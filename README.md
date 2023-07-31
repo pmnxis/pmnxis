@@ -1,5 +1,9 @@
 ### Jinwoo Park (pmnxis)
 
+- Personal blog : https://pmnxis.github.io/
+- Programming langs : C and rust
+- Tech stack : Embedded(Rust and C), Backend(Rust), PCB EDA(KiCAD and others), few reverse engineering for embedded
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmnxis&size_weight=0.5&count_weight=0.5)
 
 <!--
